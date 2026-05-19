@@ -2,27 +2,8 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "DRACHIN",
-  "total": 3,
-  "data": [
-    {
-      "NAMAE": "AwEHAAUMDgcKAAYNBwo=",
-      "COVER": "",
-      "SINOPSIS": "",
-      "LINK": ""
-    },
-    {
-      "NAMAE": "AwEABQkICgwDDAYEAgw=",
-      "COVER": "",
-      "SINOPSIS": "",
-      "LINK": ""
-    },
-    {
-      "NAMAE": "AwUFAAMODgQKBQADAQ4=",
-      "COVER": "",
-      "SINOPSIS": "",
-      "LINK": ""
-    }
-  ],
-  "lastSync": "2026-05-14T19:14:36.840Z",
-  "note": ""
+  "total": 0,
+  "data": [],
+  "lastSync": "2026-05-19T17:25:34.722Z",
+  "note": "Genre ini masih kosong, isi di Google Sheet"
 }
